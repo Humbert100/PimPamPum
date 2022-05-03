@@ -4,10 +4,12 @@ Cohort: 441
 Team proyect: 5
 Proyect name: Pim Pam Pum
 GitHub Proyect contact: 
-⋅⋅* Abiel Moisés Borja García 
-⋅⋅* Humberto Alejandro Rosas Téllez 
-⋅⋅* Luis Angel Gonzales Tapia 
-⋅⋅* Mauricio Juaréz Sánchez 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
 
 ## Download and Open Videogame

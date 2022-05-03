@@ -1,15 +1,10 @@
 # PimPamPum
-Campus: CCM
-Cohort: 441
-Team proyect: 5
-Proyect name: Pim Pam Pum
-GitHub Proyect contact: 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Campus: CCM
+2. Cohort: 441
+3. Team proyect: 5
+4. Proyect name: Pim Pam Pum
+5. GitHub Proyect contact: 
+
 
 
 ## Download and Open Videogame

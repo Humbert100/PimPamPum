@@ -1,9 +1,14 @@
 # PimPamPum
-## Campus: CCM
-## Cohort: 441
-## Team proyect: 5
-## Proyect name: Pim Pam Pum
-## GitHub Proyect contact
+Campus: CCM
+Cohort: 441
+Team proyect: 5
+Proyect name: Pim Pam Pum
+GitHub Proyect contact: 
+  Abiel Moisés Borja García 
+  Humberto Alejandro Rosas Téllez 
+  Luis Angel Gonzales Tapia 
+  Mauricio Juaréz Sánchez 
+
 
 ## Download and Open Videogame
 

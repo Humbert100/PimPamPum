@@ -5,6 +5,11 @@
 4. Proyect name: Pim Pam Pum
 5. GitHub Proyect contact: 
 
+* Abiel Moisés Borja García
+* Humberto Alejandro Rosas Téllez
+* Luis Ángel González Tapia
+* Mauricio Juaréz Sánchez
+
 
 
 ## Download and Open Videogame

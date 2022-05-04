@@ -14,6 +14,10 @@
 
 ## Download and Open Videogame
 
+Click on this url to open the files in this repository and follow the instructions below:
+
+**https://github.com/Humbert100/PimPamPum**
+
 ### Download
 
 To download the game click on the folder **Videogame** (![image](https://user-images.githubusercontent.com/93540685/166613102-0f11a7cc-7c85-49a2-8bda-a605c0442adb.png)) located within this repository, then click on **VideogamePPP.exe** (![image](https://user-images.githubusercontent.com/93540685/166613236-0a58f391-8319-4c75-ac1b-79091784afef.png)). It will be downloaded and saved in your computer's download browser (![image](https://user-images.githubusercontent.com/93540685/166613290-57e53e50-727a-45d6-90de-a87c56c76daa.png).

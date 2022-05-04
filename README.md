@@ -15,7 +15,7 @@
 6. GitHub project URL: **http://pimpampum.website:8000/**
 
 
-To see the source code used for the development of the video game, click on: **https://github.com/Humbert100/PimPamPum**
+To see the source code used for the development of the video game, click on: **https://github.com/Humbert100/PimPamPum**.
 
 ## Download and Open Videogame
 

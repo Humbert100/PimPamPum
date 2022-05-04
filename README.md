@@ -5,7 +5,7 @@
 4. Proyect name: Pim Pam Pum
 5. GitHub Proyect contact: 
 
-| Student ID | Name |
+| Name | ID |
 | ------------- | ------------- |
 |Abiel Moisés Borja García|A01654937@tec.mx |
 |Humberto Alejandro Rosas Téllez    |A01659823@tec.mx |

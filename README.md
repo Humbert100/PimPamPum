@@ -12,6 +12,8 @@
 |Luis Ángel González Tapia    |A01654625@tec.mx |
 |Mauricio Juaréz Sánchez | A01660336@tec.mx |
 
+6. GitHub project URL: http://pimpampum.website:8000/
+
 ## Download and Open Videogame
 
 Click on this url to open the files in this repository and follow the instructions below:

@@ -23,6 +23,5 @@ Enter the website (http://pimpampum.website:8000/) and within the Description se
 ![image](https://user-images.githubusercontent.com/93540685/166626215-09ba91af-6c39-4b52-ba11-b1a55c650f6f.png)
 
 When you unzip the folder, you will see multiple files. open the **PIM PAM PUM VERSION FINAL** folder (![image](https://user-images.githubusercontent.com/93540685/166626385-3f8e8525-d3c0-46f0-9f36-907915cdb1bc.png)) and click on the **VideogamePPP.exe** file (![image](https://user-images.githubusercontent.com/93540685/166613312-6f8b23f3-7c40-4194-aed3-aaa7fbfc1ffe.png)). 
-.
 ## **_Your game has started, enjoy it!_**
 
